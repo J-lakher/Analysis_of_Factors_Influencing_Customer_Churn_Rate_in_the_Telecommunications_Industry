@@ -1,0 +1,2 @@
+# Analysis_of_Factors_Influencing_Customer_Churn_Rate_in_the_Telecommunications_Industry
+This project analyzes customer churn in the telecommunications industry using Tableau. It includes visualizations like churn distribution, monthly charges analysis, contract types, payment methods, and customer segmentation heatmaps. The insights help identify patterns and strategies to improve customer retention.
